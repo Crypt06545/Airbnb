@@ -43,6 +43,21 @@ Features:
 git clone https://github.com/Crypt06545/Airbnb-Clone.git
 ```
 
+## Sneak Peek of Home Page 🙈 :
+![home](images/222.png)
+
+<table>
+  <tr>
+    <td><img src="images/226.png" alt="mockup" /></td>
+    <td><img src="images/227.png" alt="mockups" /></td>
+  </tr>
+  <tr>
+    <td><img src="images/226.png" alt="mockup" /></td>
+    <td><img src="images/229.png" alt="mockups" /></td>
+  </tr>
+</table>
+
+
 ### Install packages
 
 ```shell
